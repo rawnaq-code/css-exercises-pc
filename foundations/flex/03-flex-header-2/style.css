@@ -55,7 +55,7 @@ ul {
   padding: 0;
 }
 
-.left-links, .right-links {
+.left-links,.right-links {
   display: flex;
   gap: 16px;
   justify-content: center;
